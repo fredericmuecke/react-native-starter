@@ -1,4 +1,4 @@
-package com.profileconnect
+package com.mytracks
 
 import android.app.Application
 import com.facebook.react.PackageList
